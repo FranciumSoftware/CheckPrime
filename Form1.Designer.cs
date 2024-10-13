@@ -162,7 +162,7 @@
             this.linkLabel1.Size = new System.Drawing.Size(834, 13);
             this.linkLabel1.TabIndex = 4;
             this.linkLabel1.TabStop = true;
-            this.linkLabel1.Text = "Les secrets les plus sombre de M. Charrier";
+            this.linkLabel1.Text = "Les secrets les plus sombre de Francium Software";
             this.linkLabel1.VisitedLinkColor = System.Drawing.Color.Blue;
             this.linkLabel1.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel1_LinkClicked);
             // 
